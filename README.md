@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm SREEDEV, also known as MT! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h1>
 <h3 align="center">A fellow coding enthusiast, Redstoner and content creator.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtcodes01" alt="mtcodes01" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mtcodes01&theme=darkhub" alt="mtcodes01" /></a> </p>
 
 - 🔭 Currently brewing up a website for my [College Canteen](https://github.com/MTCodes01/College-Canteen).
 
@@ -164,13 +164,13 @@
       <br />
 <p></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtcodes01&show_icons=true&locale=en&layout=compact" alt="mtcodes01" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtcodes01&theme=dark&show_icons=true&locale=en&layout=compact" alt="mtcodes01" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtcodes01&show_icons=true&locale=en" alt="mtcodes01" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mtcodes01&theme=dark&show_icons=true&locale=en" alt="mtcodes01" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtcodes01&" alt="mtcodes01" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtcodes01&theme=dark&" alt="mtcodes01" />
 </p>
 
 <!--
