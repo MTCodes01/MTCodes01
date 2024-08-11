@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mtcodes01&theme=darkhub" alt="mtcodes01" /></a> </p>
 
-- 🔭 Currently brewing up a website for my [College Canteen](https://github.com/MTCodes01/College-Canteen).
+- 🔭 Currently brewing up 2 websites for my College: [College Canteen](https://github.com/MTCodes01/College-Canteen) and [Spotlet](https://github.com/MTCodes01/Spotlet)
 
 - 🌱 Diving deep into the world of **Python, C, HTML, CSS, JavaScript, and Flutter**. Let's level up together!
 
