@@ -5,7 +5,7 @@
 
 - 🔭 Currently brewing up 2 websites for my College: [College Canteen](https://github.com/MTCodes01/College-Canteen) and [Spotlet](https://github.com/MTCodes01/Spotlet)
 
-- 🌱 Diving deep into the world of **Python, C, HTML, CSS, JavaScript, and Flutter**. Let's level up together!
+- 🌱 Diving deep into the world of **Python, C, JAVA, HTML, CSS, JavaScript, and Flutter**. Let's level up together!
 
 - 👯 Seeking fellow adventurers for **open source quests** and epic coding battles.
 
