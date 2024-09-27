@@ -5,15 +5,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mtcodes01&theme=darkhub" alt="mtcodes01" />
 </p>
 
-- 🔭 **Currently Brewing:** Crafting two college websites: [College Canteen](https://github.com/MTCodes01/College-Canteen) and [Spotlet](https://github.com/MTCodes01/Spotlet)
+- 🔭 **Currently Brewing:** A website for my [College Canteen](https://github.com/MTCodes01/College-Canteen).
 
-- 🌱 **Diving Deep:** Exploring the realms of **Python, C, Java, HTML, CSS, JavaScript, and Flutter**.
+- 🌱 **Diving Deep:** Exploring the realms of **Python, C, Java, HTML, CSS, JS, and Flutter**.
 
 - 👯 **Open Source Quests:** Looking for fellow adventurers for epic coding collaborations.
 
 - 💬 **Let's Talk:** Always up for a chat about **Python** or **Minecraft**!
 
-- 📫 **Reach Out:** Catch me on Discord as **_mt_yt_**.
+- 📫 **Reach Out:** Catch me on Discord as **mt_yt**.
 
 <h3 align="center" class="title">Connect with Me</h3>
 <p align="center">
