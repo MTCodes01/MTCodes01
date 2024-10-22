@@ -5,7 +5,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mtcodes01&theme=darkhub" alt="mtcodes01" />
 </p>
 
-- 🔭 **Currently Brewing:** A website for my [College Canteen](https://github.com/MTCodes01/College-Canteen).
+- 🔭 **Currently Brewing:** Updating the Alchemy CEAL [Website](https://github.com/MTCodes01/alchemyiedc).
 
 - 🌱 **Diving Deep:** Exploring the realms of **Python, C, Java, HTML, CSS, JS, and Flutter**.
 
@@ -14,6 +14,15 @@
 - 💬 **Let's Talk:** Always up for a chat about **Python** or **Minecraft**!
 
 - 📫 **Reach Out:** Catch me on Discord as **mt_yt**.
+
+## Recent Projects
+
+1. [The-Solsticers](https://github.com/MTCodes01/The-Solsticers) : A project made for the NASA Space Apps Challege.
+2. [Sharanpious](https://github.com/MTCodes01/sharanpious.com) : A website for a friend.
+3. [Spotlet](https://github.com/MTCodes01/Spotlet) : A website for new comers to find nearby hostels easily.
+4. [Parasseri-Techies](https://github.com/MTCodes01/Parasseri-Techies) : A ML project made for a project expo.
+5. [Matrix-Calculator](https://github.com/MTCodes01/Matrix-Calculator) : A python project I made 2 years back, and it got a huge update a few months back.
+</p>
 
 <h3 align="center" class="title">Connect with Me</h3>
 <p align="center">
