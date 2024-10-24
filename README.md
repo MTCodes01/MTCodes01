@@ -2,7 +2,8 @@
 <h3 align="center">Coding Enthusiast | Redstoner | Content Creator</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mtcodes01&theme=darkhub" alt="mtcodes01" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=mtcodes01&theme=radical" alt="mtcodes01" />
 </p>
 
 - 🔭 **Currently Brewing:** Updating the Alchemy CEAL [Website](https://github.com/MTCodes01/alchemyiedc).
