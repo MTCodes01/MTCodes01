@@ -2,7 +2,6 @@
 <h3 align="center">Coding Enthusiast | Redstoner | Content Creator</h3>
 
 <p align="center">
-  
   <img src="https://github-profile-trophy.vercel.app/?username=mtcodes01&theme=radical" alt="mtcodes01" />
 </p>
 
