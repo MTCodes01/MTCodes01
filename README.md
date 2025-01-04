@@ -93,6 +93,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtcodes01&theme=dark&" alt="mtcodes01" />
 </p>
 
+<img src="https://raw.githubusercontent.com/mtcodes01/mtcodes01/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mtcodes01&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
+</div>
+
+<div align="center">
+  <a href="https://gitroll.io/profile/uLR8agdmKOoMYXPdsipUzBO586Pc2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLR8agdmKOoMYXPdsipUzBO586Pc2?theme=midnight" alt="GitRoll Profile Badge" height="400px"/></a>
+</div>
+
 <div align="center">
   Every line of code is a step forward, unlocking new possibilities. The journey of innovation and discovery never truly ends. Let's keep pushing the boundaries! 🚀✨
 </div>
