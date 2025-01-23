@@ -17,11 +17,11 @@
 
 ## Recent Projects
 
-1. [HVH : Health-Vigilance-Hub](https://github.com/MTCodes01/HVH-Health-Vigilance-Hub) : A project made for the Hack4Good Hackathon.
-2. [HVH : Hybrid-Vision-Hub](https://github.com/MTCodes01/HVH) : A project made for the Arcane Hackathon.
-3. [The-Solsticers](https://github.com/MTCodes01/The-Solsticers) : A project made for the NASA Space Apps Challege.
-4. [Spotlet](https://github.com/MTCodes01/Spotlet) : A website for new comers to view nearby hostels easily.
-5. [Parasseri-Techies](https://github.com/MTCodes01/Parasseri-Techies) : A ML project made for a project expo.
+1. [Ecox](https://github.com/MTCodes01/Pattona-Pattans) : A project made for the Hacktopia Hackathon.
+2. [HVH : Health-Vigilance-Hub](https://github.com/MTCodes01/HVH-Health-Vigilance-Hub) : A project made for the Hack4Good Hackathon.
+3. [HVH : Hybrid-Vision-Hub](https://github.com/MTCodes01/HVH) : A project made for the Arcane Hackathon.
+4. [The-Solsticers](https://github.com/MTCodes01/The-Solsticers) : A project made for the NASA Space Apps Challege.
+5. [Spotlet](https://github.com/MTCodes01/Spotlet) : A website for new comers to view nearby hostels easily.
 </p>
 
 <h3 align="center" class="title">Connect with Me</h3>
@@ -90,7 +90,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mtcodes01&theme=dark&show_icons=true&locale=en" alt="mtcodes01" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtcodes01&theme=dark&" alt="mtcodes01" />
+  <img src="https://streak-stats.demolab.com?user=mtcodes01&theme=dark" alt="GitHub Streak" />
 </p>
 
 <img src="https://raw.githubusercontent.com/mtcodes01/mtcodes01/output/snake.svg" alt="Snake animation" />
