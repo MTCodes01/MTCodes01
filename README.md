@@ -17,11 +17,11 @@
 
 ## Recent Projects
 
-1. [Ecox](https://github.com/MTCodes01/Pattona-Pattans) : A project made for the Hacktopia Hackathon.
-2. [HVH : Health-Vigilance-Hub](https://github.com/MTCodes01/HVH-Health-Vigilance-Hub) : A project made for the Hack4Good Hackathon.
-3. [HVH : Hybrid-Vision-Hub](https://github.com/MTCodes01/HVH) : A project made for the Arcane Hackathon.
-4. [The-Solsticers](https://github.com/MTCodes01/The-Solsticers) : A project made for the NASA Space Apps Challege.
-5. [Spotlet](https://github.com/MTCodes01/Spotlet) : A website for new comers to view nearby hostels easily.
+1. [ClauseWise](https://github.com/MTCodes01/ClauseWise) : A project made for the FOSS HACK 2025 Hackathon.
+2. [Ecox](https://github.com/MTCodes01/Pattona-Pattans) : A project made for the Hacktopia Hackathon.
+3. [HVH : Health-Vigilance-Hub](https://github.com/MTCodes01/HVH-Health-Vigilance-Hub) : A project made for the Hack4Good Hackathon.
+4. [HVH : Hybrid-Vision-Hub](https://github.com/MTCodes01/HVH) : A project made for the Arcane Hackathon.
+5. [The-Solsticers](https://github.com/MTCodes01/The-Solsticers) : A project made for the NASA Space Apps Challege.
 </p>
 
 <h3 align="center" class="title">Connect with Me</h3>
