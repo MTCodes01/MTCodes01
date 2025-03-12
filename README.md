@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! 👋 I'm SREEDEV, aka MT!</h1>
 <div align="center">
-I am a<br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2000&pause=500&center=true&vCenter=true&width=435&lines=Developer;Designer;Editor" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2000&pause=500&center=true&vCenter=true&width=435&lines=-+I+am+a+Developer;I+am+a+Designer;I+am+an+Editor" alt="Typing SVG" /></a>
 </div>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mtcodes01&theme=radical" alt="mtcodes01" />
