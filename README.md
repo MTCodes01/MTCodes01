@@ -1,6 +1,7 @@
-<h1 align="center">Hello World! 👋 I'm SREEDEV, aka MT! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h1>
-<h3 align="center">Coding Enthusiast | Redstoner | Content Creator</h3>
-
+<h1 align="center">Hello World! 👋 I'm SREEDEV, aka MT!</h1>
+<div align="center">
+I am a<br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2000&pause=500&center=true&vCenter=true&width=435&lines=Developer;Designer;Editor" alt="Typing SVG" /></a>
+</div>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mtcodes01&theme=radical" alt="mtcodes01" />
 </p>
@@ -90,7 +91,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mtcodes01&theme=dark&show_icons=true&locale=en" alt="mtcodes01" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mtcodes01&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mtcodes01&theme=dark" alt="GitHub Streak"/>
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/mtcodes01/mtcodes01/output/snake.svg" alt="Snake animation" />
