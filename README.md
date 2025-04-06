@@ -6,7 +6,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mtcodes01&theme=radical" alt="mtcodes01" />
 </p>
 
-- 🔭 **Currently Brewing:** Updating the Alchemy CEAL [Website](https://github.com/MTCodes01/alchemyiedc).
+- 🔭 **Currently Brewing:** Working on Internship.
 
 - 🌱 **Diving Deep:** Exploring the realms of **Python, C, Java, HTML, CSS, JS, and Flutter**.
 
