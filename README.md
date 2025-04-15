@@ -8,7 +8,7 @@
 
 - 🔭 **Currently Brewing:** Working on Internship.
 
-- 🌱 **Diving Deep:** Exploring the realms of **Python, C, Java, HTML, CSS, JS, and Flutter**.
+- 🌱 **Diving Deep:** Exploring the realms of **Python, Django, C, Java, HTML, CSS, JS, and React**.
 
 - 👯 **Open Source Quests:** Looking for fellow adventurers for epic coding collaborations.
 
@@ -91,7 +91,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mtcodes01&theme=dark&show_icons=true&locale=en" alt="mtcodes01" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mtcodes01&theme=dark" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=mtcodes01&theme=dark&exclude_days=Sun%2CSat" alt="GitHub Streak" />
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/mtcodes01/mtcodes01/output/snake.svg" alt="Snake animation" />
