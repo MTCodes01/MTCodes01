@@ -8,21 +8,26 @@
 
 - 🔭 **Currently Brewing:** Working on Internship.
 
-- 🌱 **Diving Deep:** Exploring the realms of **Python, Django, C, Java, HTML, CSS, JS, and React**.
+- 🌱 **Diving Deep:** Exploring the realms of **Python, Django, C, Java, HTML, CSS, JS, and React along with Docker**.
 
 - 👯 **Open Source Quests:** Looking for fellow adventurers for epic coding collaborations.
 
 - 💬 **Let's Talk:** Always up for a chat about **Python** or **Minecraft**!
 
-- 📫 **Reach Out:** Catch me on Discord as **mt_yt**.
+- 📫 **Reach Out:** Catch me on Discord as **`_mt_yt_`**.
 
 ## Recent Projects
 
-1. [ClauseWise](https://github.com/MTCodes01/ClauseWise) : A project made for the FOSS HACK 2025 Hackathon.
-2. [Ecox](https://github.com/MTCodes01/Pattona-Pattans) : A project made for the Hacktopia Hackathon.
-3. [HVH : Health-Vigilance-Hub](https://github.com/MTCodes01/HVH-Health-Vigilance-Hub) : A project made for the Hack4Good Hackathon.
-4. [HVH : Hybrid-Vision-Hub](https://github.com/MTCodes01/HVH) : A project made for the Arcane Hackathon.
-5. [The-Solsticers](https://github.com/MTCodes01/The-Solsticers) : A project made for the NASA Space Apps Challege.
+1. [IEEE-CEAL Website](https://github.com/MTCodes01/IEEE-CEAL) : A Website for IEEE in my college.
+2. [IEEE-Event-Calender](https://github.com/MTCodes01/IEEE-Event-Calender) : A Website to avoid Collision for Event Day booking.
+3. [To-Do-Tasks-Template](https://github.com/MTCodes01/To-Do-Tasks-Template) : A Template Repo for a website to add and view tasks.
+4. [Discord-Bot](https://github.com/MTCodes01/Discord-Bot) : A Template for start making a discord bot in Python.
+5. [Riotz](https://github.com/MTCodes01/Riotz) : A project made for FOSSathon _(Hackathon conducted by FOSS @CEAL)_ during the college fest Daksha Yanthra '25.
+6. [ClauseWise](https://github.com/MTCodes01/ClauseWise) : A project made for the FOSS HACK 2025 Hackathon.
+7. [Ecox](https://github.com/MTCodes01/Pattona-Pattans) : A project made for the Hacktopia Hackathon.
+8. [HVH : Health-Vigilance-Hub](https://github.com/MTCodes01/HVH-Health-Vigilance-Hub) : A project made for the Hack4Good Hackathon.
+9. [HVH : Hybrid-Vision-Hub](https://github.com/MTCodes01/HVH) : A project made for the Arcane Hackathon.
+10. [The-Solsticers](https://github.com/MTCodes01/The-Solsticers) : A project made for the NASA Space Apps Challege.
 </p>
 
 <h3 align="center" class="title">Connect with Me</h3>
