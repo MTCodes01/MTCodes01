@@ -18,16 +18,17 @@
 
 ## Recent Projects
 
-1. [IEEE-CEAL Website](https://github.com/MTCodes01/IEEE-CEAL) : A Website for IEEE in my college.
-2. [IEEE-Event-Calender](https://github.com/MTCodes01/IEEE-Event-Calender) : A Website to avoid Collision for Event Day booking.
-3. [To-Do-Tasks-Template](https://github.com/MTCodes01/To-Do-Tasks-Template) : A Template Repo for a website to add and view tasks.
-4. [Discord-Bot](https://github.com/MTCodes01/Discord-Bot) : A Template for start making a discord bot in Python.
-5. [Riotz](https://github.com/MTCodes01/Riotz) : A project made for FOSSathon _(Hackathon conducted by FOSS @CEAL)_ during the college fest Daksha Yanthra '25.
-6. [ClauseWise](https://github.com/MTCodes01/ClauseWise) : A project made for the FOSS HACK 2025 Hackathon.
-7. [Ecox](https://github.com/MTCodes01/Pattona-Pattans) : A project made for the Hacktopia Hackathon.
-8. [HVH : Health-Vigilance-Hub](https://github.com/MTCodes01/HVH-Health-Vigilance-Hub) : A project made for the Hack4Good Hackathon.
-9. [HVH : Hybrid-Vision-Hub](https://github.com/MTCodes01/HVH) : A project made for the Arcane Hackathon.
-10. [The-Solsticers](https://github.com/MTCodes01/The-Solsticers) : A project made for the NASA Space Apps Challege.
+1. [Inspetto](https://github.com/MTCodes01/Inspetto-team-7) : A project made for the HACKON2.0, 48hr Hackathon at MCET, Anad
+2. [IEEE-CEAL Website](https://github.com/MTCodes01/IEEE-CEAL) : A Website for IEEE in my college.
+3. [IEEE-Event-Calender](https://github.com/MTCodes01/IEEE-Event-Calender) : A Website to avoid Collision for Event Day booking.
+4. [To-Do-Tasks-Template](https://github.com/MTCodes01/To-Do-Tasks-Template) : A Template Repo for a website to add and view tasks.
+5. [Discord-Bot](https://github.com/MTCodes01/Discord-Bot) : A Template for start making a discord bot in Python.
+6. [Riotz](https://github.com/MTCodes01/Riotz) : A project made for FOSSathon _(Hackathon conducted by FOSS @CEAL)_ during the college fest Daksha Yanthra '25.
+7. [ClauseWise](https://github.com/MTCodes01/ClauseWise) : A project made for the FOSS HACK 2025 Hackathon.
+8. [Ecox](https://github.com/MTCodes01/Pattona-Pattans) : A project made for the Hacktopia Hackathon.
+9. [HVH : Health-Vigilance-Hub](https://github.com/MTCodes01/HVH-Health-Vigilance-Hub) : A project made for the Hack4Good Hackathon.
+10. [HVH : Hybrid-Vision-Hub](https://github.com/MTCodes01/HVH) : A project made for the Arcane Hackathon.
+11. [The-Solsticers](https://github.com/MTCodes01/The-Solsticers) : A project made for the NASA Space Apps Challege.
 </p>
 
 <h3 align="center" class="title">Connect with Me</h3>
