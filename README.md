@@ -29,7 +29,7 @@
 9. [HVH : Health-Vigilance-Hub](https://github.com/MTCodes01/HVH-Health-Vigilance-Hub) : A project made for the Hack4Good Hackathon.
 10. [HVH : Hybrid-Vision-Hub](https://github.com/MTCodes01/HVH) : A project made for the Arcane Hackathon.
 11. [The-Solsticers](https://github.com/MTCodes01/The-Solsticers) : A project made for the NASA Space Apps Challege.
-</p>
+</p> 
 
 <h3 align="center" class="title">Connect with Me</h3>
 <p align="center">
