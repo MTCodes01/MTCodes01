@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Sreedev (MT)</h1>
+<h1 align="center">Hi 👋 I'm Sreedev aka MT</h1>
 <h3 align="center">Developer | Designer | Editor</h3>
 
 ---
