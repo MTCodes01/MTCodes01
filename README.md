@@ -67,7 +67,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sreedevss/">
+  <a href="https://www.linkedin.com/in/sreedevss">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="https://github.com/MTCodes01">
