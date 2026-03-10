@@ -10,7 +10,7 @@
 - 🌱 Exploring **Backend Architecture, DevOps & Scalable Systems**
 - 🎯 Strong interest in **Python, Django & Web Development**
 - 🎮 Ask me about **Python or Minecraft**
-- 🤝 Open to collaborations & cool open-source projects
+- 🤝 Open to collaborations & cool open-source projects.
 
 ---
 
