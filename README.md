@@ -59,7 +59,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mtcodes01&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mtcodes01&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat%2CFri"/>
 </p>
 
 ---
