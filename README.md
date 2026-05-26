@@ -5,7 +5,7 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently working on **Internship + Personal Projects + Mini Project**
+- 🔭 Currently working on **Internship + Personal Projects**
 - 🏗️ Love building real-world usable systems
 - 🌱 Exploring **Backend Architecture, DevOps & Scalable Systems**
 - 🎯 Strong interest in **Python, Django & Web Development**
