@@ -73,6 +73,9 @@
   <a href="https://github.com/MTCodes01">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
+  <a href="https://gitlab.com/sreedevss">
+    <img src="https://skillicons.dev/icons?i=gitlab" height="40"/>
+  </a>
   <a href="https://instagram.com/_mt_yt_">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
