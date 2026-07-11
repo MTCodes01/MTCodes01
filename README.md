@@ -14,7 +14,6 @@
 
 ---
 
-
 ## Contributer Badge
 <div align="center">
   <img src="https://github.com/user-attachments/assets/5ab3db10-ff83-49df-8b56-0634842d9878" width="100px">
@@ -26,6 +25,7 @@
 
 | Project | Description |
 |----------|------------|
+| **[CEAL Calendar](https://github.com/MTCodes01/CEAL-Calender)** | Calendar website made for my clg event scheduling |
 | **[Inspetto](https://github.com/MTCodes01/Inspetto-team-7)** | 48hr Hackathon Project @ HACKON 2.0 (MCET, Anad) |
 | **[IEEE-CEAL Website](https://github.com/MTCodes01/IEEE-CEAL)** | Official IEEE website built for my college |
 | **[IEEE Event Calendar](https://github.com/MTCodes01/IEEE-Event-Calender)** | System to prevent event date collisions |
@@ -93,5 +93,5 @@
 ---
 
 <h3 align="center">
-Last Updated: 10 July 2026
+Last Updated: 11 July 2026
 </h3>
