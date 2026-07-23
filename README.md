@@ -1,16 +1,21 @@
 <h1 align="center">Hi 👋 I'm Sreedev aka MT</h1>
 <h3 align="center">Developer | Designer | Editor</h3>
 
+<p align="center">
+  I build practical software, experiment with ideas, and occasionally spend way too much time self-hosting things.
+</p>
+
 ---
 
 ## 🧠 About Me
 
 - 🔭 Currently working on **an Internship, Major Project & Personal Projects**
-- 🏗️ I enjoy building systems that solve real-world problems
+- 🏗️ I enjoy building systems that solve **real-world problems**
 - 🌱 Exploring **Backend Architecture, DevOps & Scalable Systems**
 - 🎯 Primarily interested in **Python, Django & Web Development**
+- 🖥️ Interested in **self-hosting, servers and open-source software**
 - 🎮 Ask me about **Python or Minecraft**
-- 🤝 Open to collaborations and interesting open-source projects
+- 🤝 Open to **collaborations and interesting open-source projects**
 
 ---
 
@@ -22,31 +27,37 @@
 | **[Discord Bot](https://github.com/MTCodes01/Discord-Bot)** | Modular Python Discord bot used daily across multiple servers |
 | **[IEEE-CEAL Website](https://github.com/MTCodes01/IEEE-CEAL)** | Official IEEE CEAL platform, developed collaboratively with a 4-member team |
 | **[Certificator](https://github.com/MTCodes01/Certificator)** | Figma plugin for guided and automated certificate generation |
-| **[Reelo](https://github.com/MTCodes01/Reelo)** | YouTube Video, Shorts & Live and Instagram Reels downloader with active users |
+| **[Reelo](https://github.com/MTCodes01/Reelo)** | YouTube Videos, Shorts & Live and Instagram Reels downloader with active users |
 | **[The Solsticers](https://github.com/MTCodes01/The-Solsticers)** | Interactive exoplanet visualization project built for NASA Space Apps Challenge |
 | **[Inspetto](https://github.com/MTCodes01/Inspetto-team-7)** | Built during my first 48-hour hackathon at HACKON 2.0 |
 | **[Pixel Motion](https://github.com/MTCodes01/Pixel-Motion)** | Experimental desktop wallpaper engine supporting image and video wallpapers |
 
 ---
 
-## My Stack
+## 🛠️ My Stack
 
 ### Languages
+
 `Python` `C` `HTML` `CSS` `JavaScript` `TypeScript`
 
 ### Frameworks & Libraries
- `React` `Django` `Flask`
+
+`React` `Django` `Flask`
 
 ### Databases
+
 `MySQL` `PostgreSQL` `SQLite`
 
 ### DevOps / Hosting
+
 `Docker` `Docker Compose` `Cloudflare` `Linux / Debian` `SSH` `DNS` `Vercel` `Netlify` `Render` `GitHub Actions` `Self-hosting` `Portainer`
 
 ### Development Tools
+
 `Git` `GitHub` `GitLab` `VS Code` `Antigravity` `Android Studio` `Hoppscotch`
 
 ### Creative Tools
+
 `Figma` `Blender` `Photoshop` `After Effects` `DaVinci Resolve` `FL Studio` `Cavalry` `Affinity` `OBS`
 
 ---
@@ -54,12 +65,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mtcodes01&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=mtcodes01&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 ---
 
-## Contributor Badge
+## 🏅 Open Source Contributions
+
 <table>
   <tr>
     <td width="120" align="center">
@@ -83,11 +98,12 @@
 
 ---
 
-## Interests
+## 🎯 Interests
 
-`UI/UX` `Design` `Content Creation` `Full-Stack Development` `Self Hosting` `Open Source` `Hackathons` `Gaming`
+`UI/UX` `Design` `Content Creation` `Full-Stack Development` `Self-Hosting` `Open Source` `Hackathons` `Gaming`
 
-## Games
+### 🎮 Games
+
 `Minecraft` `Valorant` `Chess` `Meccha Chameleon` `Mini Metro` `Mini Motorways` `Rounds` `Trackmania` _& many more..._
 
 ---
@@ -96,26 +112,59 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sreedevss">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      height="40"
+      alt="LinkedIn"
+    />
   </a>
+  &nbsp;
   <a href="https://github.com/MTCodes01">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+    <img
+      src="https://skillicons.dev/icons?i=github"
+      height="40"
+      alt="GitHub"
+    />
   </a>
+  &nbsp;
   <a href="https://gitlab.com/sreedevss">
-    <img src="https://skillicons.dev/icons?i=gitlab" height="40"/>
+    <img
+      src="https://skillicons.dev/icons?i=gitlab"
+      height="40"
+      alt="GitLab"
+    />
   </a>
+  &nbsp;
   <a href="https://instagram.com/_mt_yt_">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+    <img
+      src="https://skillicons.dev/icons?i=instagram"
+      height="40"
+      alt="Instagram"
+    />
   </a>
+  &nbsp;
   <a href="https://www.youtube.com/@mt_yt">
-    <img src="https://skillicons.dev/icons?i=youtube" height="40"/>
+    <img
+      src="https://skillicons.dev/icons?i=youtube"
+      height="40"
+      alt="YouTube"
+    />
   </a>
 </p>
 
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/mtcodes01/mtcodes01/output/snake.svg" />
-</p> -->
+---
 
-<!-- <h3 align="center">
-Last Updated: 23 July 2026
-</h3> -->
+<p align="center">
+  <i>Building things, breaking things, and figuring out why they broke.</i>
+</p>
+
+<!--
+Contribution Snake — uncomment if you want to enable it again.
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/mtcodes01/mtcodes01/output/snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+-->
