@@ -24,35 +24,40 @@
 ## 🚀 Featured Hackathon & Major Projects
 
 | Project | Description |
-|----------|------------|
-| **[CEAL Calendar](https://github.com/MTCodes01/CEAL-Calender)** | Calendar website made for my clg event scheduling |
-| **[Inspetto](https://github.com/MTCodes01/Inspetto-team-7)** | 48hr Hackathon Project @ HACKON 2.0 (MCET, Anad) |
-| **[IEEE-CEAL Website](https://github.com/MTCodes01/IEEE-CEAL)** | Official IEEE website built for my college |
-| **[IEEE Event Calendar](https://github.com/MTCodes01/IEEE-Event-Calender)** | System to prevent event date collisions |
-| **[To-Do Tasks Template](https://github.com/MTCodes01/To-Do-Tasks-Template)** | Starter template for task management websites |
-| **[Discord Bot Template](https://github.com/MTCodes01/Discord-Bot)** | Modular Python Discord bot starter kit |
-| **[Riotz](https://github.com/MTCodes01/Riotz)** | Built during FOSSathon @ Daksha Yanthra '25 |
-| **[ClauseWise](https://github.com/MTCodes01/ClauseWise)** | Developed for FOSS Hack 2025 |
-| **[Ecox](https://github.com/MTCodes01/Pattona-Pattans)** | Built for Hacktopia Hackathon |
-| **[HVH – Health Vigilance Hub](https://github.com/MTCodes01/HVH-Health-Vigilance-Hub)** | Hack4Good Hackathon Project |
-| **[HVH – Hybrid Vision Hub](https://github.com/MTCodes01/HVH)** | Arcane Hackathon Project |
-| **[The Solsticers](https://github.com/MTCodes01/The-Solsticers)** | NASA Space Apps Challenge Project |
+|----------|-------------|
+| **[CEAL Calendar](https://github.com/MTCodes01/CEAL-Calender)** | College-wide event scheduling platform actively used by college clubs |
+| **[Discord Bot](https://github.com/MTCodes01/Discord-Bot)** | Periodically maintained modular Discord bot used daily across multiple servers |
+| **[IEEE-CEAL Website](https://github.com/MTCodes01/IEEE-CEAL)** | Official IEEE CEAL platform, developed collaboratively with a 4-member team |
+| **[Certificator](https://github.com/MTCodes01/Certificator)** | Figma plugin for guided and automated certificate generation |
+| **[Reelo](https://github.com/MTCodes01/Reelo)** | YouTube Video, Shorts & Live and Instagram Reels downloader with active users |
+| **[The Solsticers](https://github.com/MTCodes01/The-Solsticers)** | Interactive exoplanet visualization project built for NASA Space Apps Challenge |
+| **[Inspetto](https://github.com/MTCodes01/Inspetto-team-7)** | Built during my first 48-hour hackathon at HACKON 2.0 |
+| **[Pixel Motion](https://github.com/MTCodes01/Pixel-Motion)** | Experimental desktop wallpaper engine supporting image and video wallpapers |
 
 ---
 
-## 🛠️ Tech Stack
+## My Stack
 
-### 💻 Languages
-`Python` `C` `Java` `JavaScript` `TypeScript`
+### Languages
+`Python` `C` `HTML` `CSS` `JavaScript` `TypeScript` `Java`
 
-### 🌐 Web
-`HTML` `CSS` `React` `Django`
+### Frameworks & Libraries
+ `React` `Django` `Flask`
 
-### 🗄️ Database
-`MySQL` `PostgreSQL`
+### Database
+`MySQL` `PostgreSQL` `SQLite`
 
-### 🧰 Tools & Others
-`Git` `Docker` `Figma` `Blender` `Photoshop` `After Effects` `Da Vinci Resolve`
+### DevOps / Hosting
+`Docker` `Docker Compose` `Cloudflare` `Debian` `SSH` `DNS` `Vercel` `Github Actions` `Self-hosting` `Portainer`
+
+### Development Tools
+`Git` `Github` `Gitlab` `VS Code` `Antigravity` `Android Studio` `Hoppscotch`
+
+### Other Softwares
+`Figma` `Blender` `Photoshop` `After Effects` `Da Vinci Resolve` `FL Studio` `Cavalry` `Affinity` `OBS`
+
+### Games
+`Minecraft` `Valorant` `Meccha Chameleon` `Mini Metro` `Mini Motorways` `Rounds` `Trackmania` _& many more..._
 
 ---
 
