@@ -46,7 +46,7 @@
 
 ### Databases
 
-`MySQL` `PostgreSQL` `SQLite`
+`MySQL` `PostgreSQL` `SQLite` `Supabase`
 
 ### DevOps / Hosting
 
