@@ -24,9 +24,10 @@
 | Project | Description |
 |----------|-------------|
 | **[CEAL Calendar](https://github.com/MTCodes01/CEAL-Calender)** | College-wide event scheduling platform actively used by college clubs |
-| **[Discord Bot](https://github.com/MTCodes01/Discord-Bot)** | Modular Python Discord bot used daily across multiple servers |
-| **[IEEE-CEAL Website](https://github.com/MTCodes01/IEEE-CEAL)** | Official IEEE CEAL platform, developed collaboratively with a 4-member team |
 | **[Certificator](https://github.com/MTCodes01/Certificator)** | Figma plugin for guided and automated certificate generation |
+| **[Nexra](https://github.com/MTCodes01/Nexra)** | Real-time presentation platform with live slide sync, audience interaction, and presenter controls |
+| **[Discord Bot](https://github.com/MTCodes01/Discord-Bot/tree/Botler)** | Modular Python Discord bot used daily across multiple servers |
+| **[IEEE-CEAL Website](https://github.com/MTCodes01/IEEE-CEAL)** | Official IEEE CEAL platform, developed collaboratively with a 4-member team |
 | **[Reelo](https://github.com/MTCodes01/Reelo)** | YouTube Videos, Shorts & Live and Instagram Reels downloader with active users |
 | **[The Solsticers](https://github.com/MTCodes01/The-Solsticers)** | Interactive exoplanet visualization project built for NASA Space Apps Challenge |
 | **[Inspetto](https://github.com/MTCodes01/Inspetto-team-7)** | Built during my first 48-hour hackathon at HACKON 2.0 |
