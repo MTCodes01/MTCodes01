@@ -28,7 +28,7 @@
 | **[Nexra](https://github.com/MTCodes01/Nexra)** | Real-time presentation platform with live slide sync, audience interaction, and presenter controls |
 | **[Discord Bot](https://github.com/MTCodes01/Discord-Bot/tree/Botler)** | Modular Python Discord bot used daily across multiple servers |
 | **[IEEE-CEAL Website](https://github.com/MTCodes01/IEEE-CEAL)** | Official IEEE CEAL platform, developed collaboratively with a 4-member team |
-| **[Reelo](https://github.com/MTCodes01/Reelo)** | YouTube Videos, Shorts & Live and Instagram Reels downloader with active users |
+| **[Reelo](https://github.com/MTCodes01/Reelo)** | YouTube Videos, Shorts, Thumpnail & Live and Instagram Reels, Posts and Pintrest downloader with active users |
 | **[The Solsticers](https://github.com/MTCodes01/The-Solsticers)** | Interactive exoplanet visualization project built for NASA Space Apps Challenge |
 | **[Inspetto](https://github.com/MTCodes01/Inspetto-team-7)** | Built during my first 48-hour hackathon at HACKON 2.0 |
 | **[Pixel Motion](https://github.com/MTCodes01/Pixel-Motion)** | Experimental desktop wallpaper engine supporting image and video wallpapers |
