@@ -105,7 +105,7 @@
 
 ### 🎮 Games
 
-`Minecraft` `Valorant` `Chess` `Meccha Chameleon` `Mini Metro` `Mini Motorways` `Rounds` `Trackmania` _& many more..._
+`Minecraft` `Valorant` `Chess.com` `Meccha Chameleon` `Mini Metro` `Mini Motorways` `Rounds` `Trackmania` _& many more..._
 
 ---
 
