@@ -165,7 +165,7 @@ Contribution Snake — uncomment if you want to enable it again.
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/mtcodes01/mtcodes01/output/snake.svg"
-    alt="GitHub Contribution Snake"
+    alt="GitHub Contribution"
   />
 </p>
 -->
