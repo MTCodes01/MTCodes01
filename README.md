@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently working on **an Internship, Major Project & Personal Projects**
+- 🔭 Currently working on **Major Project & Personal Projects**
 - 🏗️ I enjoy building systems that solve **real-world problems**
 - 🌱 Exploring **Backend Architecture, DevOps & Scalable Systems**
 - 🎯 Primarily interested in **Python, Django & Web Development**
